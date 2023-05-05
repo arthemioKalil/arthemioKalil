@@ -12,7 +12,7 @@
   </div>
 </div></br>
 
-![Artenks Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthemioKalil&compact=true)]
+![Artenks Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthemioKalil&compact=true)
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]('https://twitter.com/Artenks) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]('https://www.youtube.com/@artenks')
